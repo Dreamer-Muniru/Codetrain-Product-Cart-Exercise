@@ -1,0 +1,28 @@
+
+
+
+.caption .cart {
+	width: 100%;
+	color: white;
+	padding: 10px;
+	background-color: #000;
+}
+
+.caption .cart a {
+	text-decoration: none;
+	color: white;
+	font-weight: bold;
+}
+
+.img-large img {
+	height: 250px;
+	width: 100%;
+}
+
+.rounded h5 {
+	border-radius: 20px;
+	background-color: lightgrey;
+	padding: 10px;
+	overflow: hidden;
+
+}
